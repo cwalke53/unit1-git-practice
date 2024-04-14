@@ -1,0 +1,106 @@
+### Step 2A 
+/Users/cdub
+
+
+### Step 2B 
+The command I used is ls then I used the command cd Desktop
+
+
+### Step 2C 
+The command used was cd uni then TAB which finished the code and auto filled cd unit1-git-practice/
+
+
+### Step 2D
+Pwd
+/Users/cdub/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+Root directory cd /
+
+### Step 2H
+/Users/cdubls
+
+
+### Step 2I
+Desktop		Documents	Downloads	Library		Movies		Music		Pictures	Public		PycharmProjects
+
+
+### Step 2J cd ~
+
+
+### Step 2K
+cd Desktop 
+cd unit1-git-practice 
+
+
+### Step 3A
+
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+Navigate the folder: cd veggies 
+Create files: touch carrot.txt
+              touch pea.txt
+
+### Step 3F
+cd ..
+cd sweets
+touch cookie.txt
+
+
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+touch thing.txt
+
+
+### Step 3I
+cp thing.txt tofu.txt
+
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+mv crab.txt proteins
+cd proteins
+mv crab.txt meats
+
+### Step 3L
+rm thing.txt 
+
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+Mkdir drinks
+Rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
