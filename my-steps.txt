@@ -94,9 +94,16 @@ Rm -r drinks
 
 
 ### Step 4
+Git init
+Git add .
+Git commit -m 'first commit'
+
 
 
 ### Step 5
+Go to GitHub.com
+Create repository
+Copy link to paste in terminal for repository use
 
 
 ### Step 6
