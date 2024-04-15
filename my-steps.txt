@@ -107,6 +107,13 @@ Copy link to paste in terminal for repository use
 
 
 ### Step 6
+Created new file touch- menu.txt
+Ls to verify file is listed
+Git add . To add all the files
+Git status to check status
+Git commit -m 'starting a menu'
+Git push to push to add to GitHub git 
+
 
 
 ### Step 7
